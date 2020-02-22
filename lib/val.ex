@@ -1,0 +1,2 @@
+defmodule Val do
+end
